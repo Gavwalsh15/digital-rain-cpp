@@ -1,16 +1,8 @@
 # Digital Rain
 
-## Introduction 
-This C++ project is an application that mimics the Digital Rain effect from The Matrix. Developed in C++, it use various functions from the Windows Console API to handle text rendering and create the dynamic falling drops effect. The project focuses key C++ concepts such as object-oriented design, modern C++ coding styles and methods.
+This C++ project aims to imitate the digital rain effect from The Matrix, using the Windows Console API to simulate falling characters. The application generates random raindrops that fall from the top of the terminal, with new characters continuously replacing them. In this project, I focused on implementing modern coding practices and object-oriented design while using a multifile structure to ensure better code organization, readability, and maintainability.
 
-## Design & Test
-The design of the project revolves around creating a fluid and efficient simulation. 
-
-Key design elements include:
-
-Object-Oriented Design: Classes are used to define the raindrops and manage their state, such as position and character type, while also maintaining the flow of the digital rain and a Random Number generator class.
-Modern C++ Techniques: 
-Modular Design:
+## [Design](/docs/pages/design.md)
 
 ## Algorithm
 The algorithm for the Digital Rain effect iterating through a vector of RainDrop objects, each representing a single raindrop on the screen. 
