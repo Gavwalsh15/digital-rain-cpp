@@ -1,3 +1,4 @@
+# Desgin
 Object-Oriented Design:
 - The rain is used to define the raindrops and manage their state, such as position, character, and length. This allows for cleaner, more modular code and makes it easier to manage the behavior of individual raindrops. 
 
@@ -18,8 +19,8 @@ Through out the project I tried to keep the display logic and rain algorithm as 
 With that in mind I made the RNG class sepereate rather than a member function of the rain. This increases the dependacies but makes it more modular if you were to use a different RNG class that is possible.
 With all that being said I should have seperated the console function into its own class to de-clutter the test file.
 
-# Rain Class:
+## Rain Class:
 <img src="https://raw.githubusercontent.com/Gavwalsh15/digital-rain-cpp/main/docs/assets/images/rain-class.png">
 
-# RNG Class:
+## RNG Class:
 <img src="https://raw.githubusercontent.com/Gavwalsh15/digital-rain-cpp/main/docs/assets/images/RNG-class.png">

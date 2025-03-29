@@ -12,4 +12,12 @@ This C++ project aims to imitate the digital rain effect from The Matrix, using 
 ## Images
 <img src="https://raw.githubusercontent.com/Gavwalsh15/digital-rain-cpp/main/docs/assets/images/startup.png">
 
+## Useful Links
 
+Windows API: https://learn.microsoft.com/en-us/windows/win32/api/winbase/
+
+ASCII art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+
+Google C++ Style guides : https://docs.google.com/file/d/0B5FQoJdw1sdRVHRid21IalRRb3M/edit?resourcekey=0-0OIuS0JpAEz34vYFETmWUQ
+
+ChatGPT: https://chatgpt.com/

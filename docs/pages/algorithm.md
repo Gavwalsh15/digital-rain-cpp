@@ -1,3 +1,5 @@
+# Algorithm
+## Rain Algorithm
 The algorithm for the Digital Rain effect iterating through a vector of RainDrop objects, each representing a single raindrop on the screen. 
 
 The following steps describe the core algorithm:
@@ -26,7 +28,7 @@ struct WindowsBufferInfo {
 };
 ```
 
-# RNG Algorithm:
+## RNG Algorithm:
 
 The Mersenne Twister is a widely used random number generator, implemented in the Standard Library as std::mt19937. It is named after Mersenne numbers, mathematical formula ($M_p​$ = $2^p$−1). The "twisting" process mixes the state to produce more randomness. It’s performed by applying bitwise operations like XOR and shifting the bits of the state.
 
