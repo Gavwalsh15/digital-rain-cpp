@@ -11,6 +11,7 @@ This C++ project aims to imitate the digital rain effect from The Matrix, using 
 
 ## Images
 <img src="https://raw.githubusercontent.com/Gavwalsh15/digital-rain-cpp/main/docs/assets/images/startup.png">
+<img src="https://raw.githubusercontent.com/Gavwalsh15/digital-rain-cpp/main/docs/assets/images/recording.gif">
 
 ## Useful Links
 
