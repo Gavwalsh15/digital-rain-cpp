@@ -15,10 +15,10 @@ This C++ project aims to imitate the digital rain effect from The Matrix, using 
 
 ## Useful Links
 
-Windows API: https://learn.microsoft.com/en-us/windows/win32/api/winbase/
+Windows API: [https://learn.microsoft.com/en-us/windows/win32/api/winbase/](https://learn.microsoft.com/en-us/windows/win32/api/winbase/)
 
-ASCII art: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+ASCII art: [https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-Google C++ Style guides : https://docs.google.com/file/d/0B5FQoJdw1sdRVHRid21IalRRb3M/edit?resourcekey=0-0OIuS0JpAEz34vYFETmWUQ
+Google C++ Style guides: [https://docs.google.com/file/d/0B5FQoJdw1sdRVHRid21IalRRb3M/edit?resourcekey=0-0OIuS0JpAEz34vYFETmWUQ](https://docs.google.com/file/d/0B5FQoJdw1sdRVHRid21IalRRb3M/edit?resourcekey=0-0OIuS0JpAEz34vYFETmWUQ)
 
-ChatGPT: https://chatgpt.com/
+ChatGPT: [https://chatgpt.com/](https://chatgpt.com/)
